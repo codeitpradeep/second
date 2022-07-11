@@ -1,0 +1,3 @@
+Char of 'A' to find its ascii value
+
+(int) c; - changing cast used when converting its type.

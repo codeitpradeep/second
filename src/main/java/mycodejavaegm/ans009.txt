@@ -1,0 +1,2 @@
+if statement will check the inputs .
+|| opr- used to compare between statements 

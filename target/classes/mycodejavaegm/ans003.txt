@@ -1,0 +1,2 @@
+ Getting two integer as value
+ Added using the '+' operator

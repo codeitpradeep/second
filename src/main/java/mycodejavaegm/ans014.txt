@@ -1,0 +1,18 @@
+Method 1 -
+
+Iterate from last charAt
+r
+ra
+rad
+rada
+radaR
+radaR
+
+Method 2 -
+353 to reverse 
+rem = num % 10;
+3 as remainder
+revsnum = revsnum *10 + rem;
+3 (0*10)+3 as remainder
+num=num/10;
+35 qos

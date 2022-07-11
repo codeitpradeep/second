@@ -1,0 +1,11 @@
+Array for printing ODD EVEN position ,
+
+Even position -
+inside for loop ,
+i = 1 => a[1] position shows Even position.
+i = i + 2 => incr by adding 2 
+
+Odd position -
+inside for loop ,
+i = 0 => a[0] position shows Odd position.
+i = i + 2 => incr by adding 2 

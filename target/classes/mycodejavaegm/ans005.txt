@@ -1,0 +1,6 @@
+swapapprochone(a,b); -
+Swap two number using temp new variable.
+It holds on one value to replace others values, 
+once desired execution is completed its value is assigned to already existing second variable.
+swapapprochtwo(a,b); -
+Add , sub operator Sum of both the numbers  is stored in second memory cell(number).

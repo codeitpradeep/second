@@ -1,0 +1,19 @@
+To find larger number using if condition
+
+int a[] = {23,44,75,2,28,99,7,12};
+set  max as a[0] 
+Using for loop i = 0 , i = a.length() , i++
+
+if(a[0] > max )
+
+Step 0 23 > 23(max)
+Step 1 44 > 23(max)
+Step 2 75 > 44(max)
+Step 3 2 > 75(max)
+Step 4 28 > 75(max)
+Step 5 99 > 75(max)
+Step 6 7 > 99(max)
+Step 7 12 > 99(max)
+
+print max
+ 

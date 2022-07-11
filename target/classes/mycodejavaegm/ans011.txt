@@ -1,0 +1,32 @@
+Prime number is a number that is divisible by only two numbers: 1 and itself. 
+So, if any number is divisible by any other number, it is not a prime number
+Using for loop to find prime number 
+
+for(int i=2; i <= num/2 ; ++i){
+if(num % i == 0){..}else{true}
+}
+Here 2 <= 29/2  - 2 <= 14 , loop extends half 
+num is 29 % i will be - 2 (29%2== 0) , if true (not Prime)
+++2 - will be inc
+
+output will cal like 29 half 
+29%2
+29%3
+29%4
+29%5
+29%6
+29%7
+29%8
+29%9
+29%10
+29%11
+29%12
+29%13
+29%14
+prime -29
+
+As M - Nth number 
+while(m < n){
+++m
+}
+m should incr and possible algorithm to display prime or not

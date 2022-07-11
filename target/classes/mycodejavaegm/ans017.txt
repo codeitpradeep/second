@@ -1,0 +1,19 @@
+Find Dul of same copy of the array element
+
+for(int m=0;m<a.length;m++){
+
+Inside for loop - int n= m+1
+for(int n= m+1;n<a.length;n++)
+Above for loop is 2D array
+
+a[m] == a[n]
+if(a[m] == a[n]){
+System.out.println("Dulp- "+a[m]);
+}
+
+we travel like ,
+
+a[1] == a[2]...a[n]
+next loop 
+a[2] === a[3] ...a[n]
+so on....

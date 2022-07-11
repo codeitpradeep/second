@@ -1,0 +1,23 @@
+a[]={10,60,20,30,40,40,80,50};
+looking like unsorted , so
+
+Arrays.sort(a);
+used to sort a[] 
+
+create method as static 
+rmvdulpele(a,len); 
+
+We check duplicate using
+for used from len-1 => 7
+if(a[i] != a[i+1])
+a[1] != a[2] , not equals seems not duplicate
+a[j++] = a[i]; ,every time for loop checks if duplicate , j++ assign to initialize a[i] 
+
+Inside static methods , a[] stored in heap memory , finally we return j; as 7  
+
+finally we have 
+a[0] = 10
+a[2] = 20
+.
+.
+.

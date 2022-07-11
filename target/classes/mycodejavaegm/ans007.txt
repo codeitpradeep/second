@@ -1,0 +1,1 @@
+ we have used the / operator and % operator

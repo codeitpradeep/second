@@ -1,0 +1,2 @@
+Multiply two Floating point numbers in Java and print their multiplication
+Floating - primitive type

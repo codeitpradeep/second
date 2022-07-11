@@ -1,0 +1,6 @@
+java.util.Scanner- A simple text scanner which can parse primitive types and strings usingregular expressions. 
+A Scanner breaks its input into tokens using adelimiter pattern, which by default matches whitespace. The resultingtokens may then be converted into values of different types using thevarious next methods. 
+
+public int nextInt() - Scans the next token of the input as an int. 
+An invocation of this method of the form nextInt() behaves in exactly the same way as theinvocation nextInt(radix), where radixis the default radix of this scanner.
+Returns:the int scanned from the input
